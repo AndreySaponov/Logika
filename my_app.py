@@ -1,16 +1,5 @@
 # напиши тут код основної програми та першого екрануm
 nlmn
-from memo_card_layout import*
-from PyQt5.QtWidgets import QWidget
-from PyQt5.QtCore import QTimer 
-from random import shuffle 
-from memo_data import* 
-from memo_edit_layout import* 
-from memo_main_layout import * 
-
-
-main_width, main_height = 1000, 450 
-card_width, card_height = 600, 500 
 time_unit = 1000   
 
 
