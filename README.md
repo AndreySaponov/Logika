@@ -1,2 +1,3 @@
 # Logika
 skj
+ljn
